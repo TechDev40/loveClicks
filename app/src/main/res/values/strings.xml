@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoveClicks</string>
+    <string name="am_btn_click_me">CLICK ME!</string>
+    <string name="am_counter_default_value">0</string>
+</resources>
