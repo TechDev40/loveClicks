@@ -35,6 +35,7 @@ class MainActivity : AppCompatActivity() {
         mCounter++
 
         if (mCounter > 10) {
+            if (mCounter > 11) mCounter = 11
             navigateToSecondActivity()
             return
         }
